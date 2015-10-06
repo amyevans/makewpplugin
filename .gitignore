@@ -1,0 +1,12 @@
+.vagrant/
+Vagrantfile
+dump.sql
+scotch-readme.md
+
+!public/
+
+public/*
+!public/wp-content/
+
+public/wp-content/*
+!public/wp-content/plugins/
